@@ -16,10 +16,10 @@ require (
 	github.com/laziercoder/mongostore v0.0.4
 	github.com/memcachier/mc v2.0.1+incompatible
 	github.com/quasoft/memstore v0.0.0-20191010062613-2bce066d2b0b
-	github.com/wader/gormstore/v2 v2.0.0
+	github.com/wader/gormstore/v2 v2.0.3
 	go.mongodb.org/mongo-driver v1.9.0
-	gorm.io/driver/sqlite v1.3.2
-	gorm.io/gorm v1.23.5
+	gorm.io/driver/sqlite v1.4.1
+	gorm.io/gorm v1.24.0
 )
 
 require (
@@ -47,7 +47,7 @@ require (
 	github.com/xdg-go/scram v1.1.1 // indirect
 	github.com/xdg-go/stringprep v1.0.3 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20201027041543-1326539a0a0a // indirect
-	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/sys v0.0.0-20220408201424-a24fb2fb8a0f // indirect
 	golang.org/x/text v0.3.7 // indirect
